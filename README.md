@@ -1,9 +1,9 @@
 # Un panorama des recherches contre le Covid-19 dans le domaine des sciences et technologies de l'information
-! A panorama of research against Covid-19 in data science
+### A panorama of research against Covid-19 in data science
 
-Ce dépos est le site compagnon de la contribution intitulée « Un panorama des recherches contre le Covid-19 dans le domaine des sciences et technologies de l'information » présentée par Jamal Atif, Stéphane Canu et Olivier Cappé  lors de la Journée d'étude : Covid 19 organisée par le GDR ISIS, le 16  avril  2020 par visio conférence.
+Ce dépos est le site compagnon de la contribution intitulée « _Un panorama des recherches contre le Covid-19 dans le domaine des sciences et technologies de l'information_ » présentée par Jamal Atif, Stéphane Canu et Olivier Cappé  lors de la Journée d'étude : Covid 19 organisée par le GDR ISIS, le 16  avril  2020 par visio conférence.
 
-Résumé : La lutte contre la pandémie de Covid 19 a entrainé un mobilisation sans 
+**Résumé** : La lutte contre la pandémie de Covid 19 a entrainé un mobilisation sans 
 précédent de la recherche dans les domaines des science et technologies 
 de l'information (STI). Il existe de nombreux défis liés la pandémie de 
 COVID-19  pour lesquelles les apports des recherches en STI pourraient 
@@ -17,7 +17,7 @@ informations dans les publications scientifiques et sur les réseaux
 sociaux.
 
 Il contient : 
- - les planches de la présentation ()
+ - les planches de la présentation 
  - un notebook jupyter en python présentant trois jeux de données associées au covid 19
 
 <img class="fit-picture"
