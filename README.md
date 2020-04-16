@@ -21,6 +21,6 @@ Il contient :
  - un notebook jupyter en python présentant trois jeux de données associées au covid 19
 
 <img class="fit-picture"
-     src="https://www.archimag.com/sites/archimag.com/files/styles/article/public/web_articles/image/covid19_carte.png?itok=-pyO-OWs"
+     src="images/world_map_16_04.png"
      >
-
+from https://who.sprinklr.com/
