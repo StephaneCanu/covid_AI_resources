@@ -23,4 +23,4 @@ Il contient :
 <img class="fit-picture"
      src="https://github.com/StephaneCanu/covid_AI_resources/blob/master/image/world_map_16_04.png"
      >
-from https://who.sprinklr.com/
+From WHO (https://who.sprinklr.com/)
